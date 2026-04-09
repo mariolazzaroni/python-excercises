@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VSCode
+.vscode/
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Environments
+env/
+venv/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# SQLite databases
+*.sqlite3
+
+# Test coverage
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+
+# Misc
+*.swp
